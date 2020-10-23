@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.chat">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="APP"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".EditPageSell"></activity>
+        <activity android:name=".EditPageFound" />
+        <activity android:name=".ChatRoomActivity" />
+        <activity android:name=".ChatActivity" />
+        <activity android:name=".FoundAddItem" />
+        <activity android:name=".SellAddItem" />
+        <activity android:name=".OnSalePage" />
+        <activity android:name=".FoundItemsPage" />
+        <activity android:name=".LostFilter" />
+        <activity android:name=".BuyFilter" />
+        <activity android:name=".Help" />
+        <activity android:name=".Information" />
+        <activity android:name=".ForgotPasswordActivity" />
+        <activity android:name=".SettingsActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".LoginActivity" />
+    </application>
+
+</manifest>
