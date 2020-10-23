@@ -1,7 +1,7 @@
 # Bilkent-Companion
 Our not so simple CS102 project. 
 
-This is an Android application with Buy/Sell and Lost/Found forums for Bilkent University students. The project is developed in Android Studio with Java. he Firbase Databse is used in this application. Detailed information of the project can be found inside the docs folder.
+This is an Android application with Buy/Sell and Lost/Found forums for Bilkent University students. The project is developed in Android Studio with Java. The Firebase Database is used in this application. Detailed information of the project can be found inside the docs folder.
 
 ## Contributing
 Please do not contribute to this old and fragile project. It has sentimental value to us. But you are welcome to look around, pull or clone.
