@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/buy_sell"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:title="@string/buy_sell"/>
+
+    <item android:id="@+id/lost_found"
+        android:icon="@drawable/ic_pan_tool_black_24dp"
+        android:title="@string/lost_found"/>
+
+    <item android:id="@+id/chats"
+        android:icon="@drawable/ic_chat_black_24dp"
+        android:title="@string/chatrooms"/>
+
+    <item android:id="@+id/settings"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/settings"/>
+
+    <item android:id="@+id/logout"
+        android:icon="@drawable/ic_close_black_24dp"
+        android:title="@string/logout"/>
+</menu>

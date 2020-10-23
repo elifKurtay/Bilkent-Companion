@@ -1,0 +1,65 @@
+<resources>
+
+    <string name="app_name">Bilkent Companion</string>
+    <string name="mail">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="fPassword">Forget Password?</string>
+    <string name="fpQuestion">Security Question</string>
+    <string name="enter">enter</string>
+    <string name="answer">Answer</string>
+    <string name="wrong_input">You have 3 attempts to answer the security question.</string>
+    <string name="password_again">Please repeat password</string>
+    <string name="writesq">Please write your security question here</string>
+    <string name="answerSQ">Answer to your security question</string>
+    <string name="save">Save</string>
+    <string name="cncl">Cancel</string>
+    <string name="title_activity_add_lost_item">AddLostItem</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="logout">Logout</string>
+    <string name="buy_sell">Buy / Sell</string>
+    <string name="lost_found"><![CDATA[Lost & Found]]></string>
+    <string name="chatrooms">Chatrooms</string>
+    <string name="settings">Settings</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+
+    <string-array name="lostFoundCategories">
+        <item>all</item>
+        <item>course material</item>
+        <item>technological devices</item>
+        <item>money</item>
+    </string-array>
+    <string-array name="buySellCategories">
+        <item>all</item>
+        <item>course material</item>
+        <item>technological devices</item>
+        <item>clothing</item>
+    </string-array>
+    <string name="catpic" />
+    <string name="help">This section will help you understand how the app works and how to navigate through it. The explanation will start from the Main menu, and will explain what each function does.
+Firstly, the app revolves around the idea that students are able to report what they have found as lost items in the campus and what they want to sell to other students. There are 2 forums that allows the students to to this: the Buy/Sell forum and the Lost/Found forum. Using these forums, the students are able to report lost items, allowing the item to return to its owner, and sell some items, which is an essential activity in the university.
+The Main Menu consists of 4 buttons: Buy/Sell, Lost/Found, Chatroom, and Settings.
+The Buy/Sell button takes you to a forum as said above, where you can make a post on the forum about an item you want to sell, providing some information in the process such as its category(such as technology, books and other stuff), price, description and optionally a picture. If you want to sell an item, you select these properties and then add your item to the forum, where it can be seen by other students that want to buy the item. However, if you do not want to sell an item, but rather buy it, you can exit the selling process by clicking the button at the bottom: “Let’s Buy”. This button takes you to the listed items that is being sold. You can browse through the forum and select what you want to buy, maybe later contacting with the person who is selling it.
+The Lost/Found button functions similarly. The button takes you to a page where you can list the properties of a lost item that you want to find. For example if you lost your book and want to find it, this is where you should be at. You list relevant information about your lost item, such as where you lost it and the time of loss. Entering these properties, you browse the forum for your item. Then you may find the item and get in contact with the person who found it. Alternatively, you have found an item but you are not the owner of it. Then you click the “Let’s Find” button, which allows you to enter information about the found item. Then the item is added to the forum which allows other users to access it.
+Everytime the forums are used, if you want to contact the person who found your item or is selling something you like, you click on the item to enter a chatroom with the said person, where you can talk or negotiate with the other user, which helps you to discuss the item efficiently. The Chatroom allows you to see a list of the chats that you made previously with others. So if you previously talked with somebody, their Chatroom is created and you can access it by clicking the Chatroom button.
+The last button is the Setting button, which leads you to a menu where you can access here, the Help part, or access information about the app.
+Thank you very much for using the app!
+Love, 6Bugz
+</string>
+    <string name="information">Information</string>
+    <string name="my_account">My Account</string>
+    <string name="goto2">goto2</string>
+    <string name="informationHere">Hello, we are 6Bugz! We know that it is a very cool and original name, thank you. 5 of us are in the fisrt year of Computer Science in Bilkent University and one of us is a Mathematics major.
+While creating this app, we wanted to assist Bilkent University students in their college lives. The app means facilitate some actions that the students may need.
+ We have two major features in the app which are: Buy/Sell and Lost/Found forums. These forums, as their names suggest, enables the students to find, buy and/or sell items.
+We hope to add some other features in our app later on, concerning other lack of solutions to problems here in Bilkent. We wish to have a one true app to rule them all.
+This app is written in Java, with also the help of Firebase, which is Google’s database platform. Thank you for using the app!
+Love,
+6Bugz
+</string>
+
+</resources>
